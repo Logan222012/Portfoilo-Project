@@ -1,0 +1,39 @@
+.colors {
+   color: rgb(195, 52, 30);
+}
+.backgroundcolors {
+    background-color: #AA7122;
+}
+.center {
+    align-items: center;
+    text-align: center;
+}
+.megrim-regular {
+    font-family: "Megrim", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.nablauniquifier {
+  font-family: "Nabla", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "EDPT" 100,
+    "EHLT" 12;
+}
+.mate-regular {
+    font-family: "Mate", serif;
+    font-weight: 800;
+    font-style: normal;
+  }
+  
+  .mate-regular-italic {
+    font-family: "Mate", serif;
+    font-weight: 800;
+    font-style: italic;
+  }
+    .textsize {
+    font-size: 50px;
+  }
