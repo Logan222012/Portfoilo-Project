@@ -92,6 +92,7 @@
   .playanimation h1 {
     position: relative;
     filter: hue-rotate(138deg);
+    margin: 0;
   }
 
   @keyframes cliping {
